@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.email         = 'pinhal.helder@gmail.com'
 
   spec.summary       = 'Get the applicationId of an Android project.'
-  spec.homepage      = "https://github.com/hpinhal/fastlane-plugin-get_application_id"
+  spec.homepage      = "https://github.com/hpinhal/fastlane-plugin-get-application-id"
   spec.license       = "MIT"
 
   spec.files         = Dir["lib/**/*"] + %w(README.md LICENSE)
